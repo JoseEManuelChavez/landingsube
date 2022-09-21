@@ -1,0 +1,625 @@
+#primerfondo{
+
+background-image: url("../img/planta.png");
+background-repeat: no-repeat;
+background-size: cover;
+padding: 50px 0px 83px 20px;
+
+}
+
+#Banner1{
+
+background-image: url("../img/planta-2.png");
+background-repeat: no-repeat;
+background-size: cover;
+height: 400px;
+
+}
+
+.fondobox{
+
+background-image: url("../img/planta-5.png");
+background-repeat: no-repeat;
+background-size: contain;
+margin-top: -192px;
+
+}
+
+.fondobox img{
+
+max-width: 516px;
+margin-top: 98px;
+margin-left: 56px;
+
+}
+
+#titulo{
+
+margin-top: 98px;
+margin-left: 88px;
+text-align: left;
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+font-size: 28px;
+letter-spacing: 0px;
+color: #4E4E4E;
+}
+.introduccion p{
+
+	padding: 20px 0px 20px 84px;
+}
+#subtitulo{
+
+margin-left: 88px;
+text-align: left;
+font-family: Roboto, italic;
+letter-spacing: 0px;
+color: #26B8A9;
+font-weight: normal;
+font-size: 18px;
+}
+
+.inicio p{
+
+	margin-left: 88px;
+	width: 526px;
+	height: 72px;
+	text-align: left;
+	letter-spacing: 0px;
+	color: #4E4E4E;	
+	font-family: 'Roboto', sans-serif;
+	font-size:18px;
+}
+
+.promocion{
+
+	background-color: #DB9200;
+	margin-left: 88px;
+	width: 526px;
+	height: 32px;
+	background: #DB9200 0% 0% no-repeat padding-box;
+	border-radius: 5px 5px 0px 0px;
+	opacity: 1;
+}
+
+.titulopromo{
+
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	opacity: 1;
+	text-transform: uppercase;
+	padding: 7px;
+}
+
+.precio{
+    text-decoration: line-through;
+}
+.promociodos{
+
+	margin-left: 88px;
+	width: 526px;
+	height: 50px;
+	background: #FFAA00 0% 0% no-repeat padding-box;
+	box-shadow: 3px 3px 10px #00000029;
+	border-radius: 0px 0px 5px 5px;
+	opacity: 1;
+}
+
+.promociodos h2{
+
+	margin-top: 0px;
+	height: 32px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	font-weight: 900;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+}
+
+#primerfondo img {
+
+margin: 20px 0px -51px 75px;
+}
+.figura{
+
+width: 466px;
+height: 118px;
+background: #E9EAEC 0% 0% no-repeat padding-box;
+opacity: 1;
+margin-top: 50px;
+}
+
+#Banner1 img{
+
+margin-left: 61px;
+width: 379px;
+height: 320px;
+opacity: 1;	
+margin-top: 31px;
+}
+
+#Banner1 h3{
+  margin-top: -303px;
+  margin-left: 466px;
+  width: 516px;
+  height: 37px;
+  text-align: left;
+  font-size: 28px;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  font-weight: 900;	
+
+}
+#Banner1 p{
+
+	margin-left: 466px;
+	width: 720px;
+	height: 96px;
+	text-align: left;
+	letter-spacing: 0px;
+	color: #F2F2F2;
+	opacity: 1;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+}
+
+.promocion3{
+	background-color: #DB9200;
+	margin-left: 88px;
+	width: 526px;
+	height: 32px;
+	background: #DB9200 0% 0% no-repeat padding-box;
+	border-radius: 5px 5px 0px 0px;
+	opacity: 1;
+	margin-left: 460px;
+}
+.promocion3sub{
+	margin-left: 460px;
+	width: 526px;
+	height: 50px;
+	background: #FFAA00 0% 0% no-repeat padding-box;
+	box-shadow: 3px 3px 10px #00000029;
+	border-radius: 0px 0px 5px 5px;
+	opacity: 1;
+}
+
+.promocion3sub h2{
+
+	margin-top: 0px;
+	height: 32px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	font-weight: 900;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+}
+
+#titulochecks{
+
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 28px;
+	letter-spacing: 0px;
+	color: #4E4E4E;
+	opacity: 1;
+	font-weight: bold;
+	margin-top: 40px;
+	padding: 20px 0px 44px 0px;
+}
+
+.checks img{
+	margin:auto;
+	display:block;
+}
+
+.checks p{
+	text-align: center;
+	height: 50px;
+	text-align: center;
+	letter-spacing: 0px;
+	color: #707070;
+	opacity: 1;
+	margin-top: 20px;
+}
+
+.figuraverde{
+
+	margin-left: 0px;
+	width: 70px;
+	height: 84px;
+	background: #26B8A9 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.figuragris{
+
+	left: 0px;
+	width: 110px;
+	height: 182px;
+	background: #E9EAEC 0% 0% no-repeat padding-box;
+	opacity: 1;
+	margin-top: -59px;
+}
+
+.cajafinal{
+	margin-top: -69px !important;
+	margin-left: 46px !important;
+}
+
+.cajafinal h2{
+
+	text-align: left;
+	letter-spacing: 0px;
+	color: #4E4E4E;
+	font-family: 'Roboto', sans-serif;
+	font-size: 28px;
+	font-weight: bold;
+	padding: 20px;
+}
+
+.cajafinal div p{
+
+	width: 530px;
+	height: 72px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	letter-spacing: 0px;
+	color: #707070;
+}
+
+.promocionfinal{
+
+	background-color: #DB9200;
+	margin-left: 0px;
+	width: 526px;
+	height: 32px;
+	background: #DB9200 0% 0% no-repeat padding-box;
+	border-radius: 5px 5px 0px 0px;
+	opacity: 1;
+}
+
+.promocionfinal h2{
+
+
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	padding: 6px;
+}
+
+.promociodosfinal{
+
+	margin-left: 0px;
+	width: 526px;
+	height: 50px;
+	background: #FFAA00 0% 0% no-repeat padding-box;
+	box-shadow: 3px 3px 10px #00000029;
+	border-radius: 0px 0px 5px 5px;
+	opacity: 1;
+
+}
+
+#fondoverde{
+
+	margin-left: 0px;
+	width: 414px;
+	height: 68px;
+	background: #26B8A9 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.cajaletras{
+height: 499px;
+background: #E9EAEC 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.cajaletras h3{
+padding: 50px 0px 0px 0px;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-size: 28px;
+letter-spacing: 0px;
+color: #4E4E4E;
+opacity: 1;
+}
+
+.cajaletras p{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	letter-spacing: 0px;
+	color: #707070;
+	opacity: 1;
+	padding: 25px;
+
+}
+
+.tituloletras{
+text-align: center!important;
+font-family: 'Roboto', sans-serif!important;
+font-weight: bold!important;
+font-size: 16px!important;
+letter-spacing: 0px!important;
+color: #51C6BA!important;
+opacity: 1!important;
+
+}
+
+.letra P{
+
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 40px;
+	letter-spacing: 0px;
+	color: #26B8A9;
+	border-radius: 50%;
+	width: 113px;
+	margin-left: 152px;	
+	background: white;
+}
+
+.contenidoletras{
+
+	width: 345px!important;
+	height: 48px!important;
+	text-align: center!important;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	letter-spacing: 0px!important;
+	color: #707070!important;
+	margin-left: 41px!important;
+}
+
+footer{
+margin-	left: 1px;
+width: 639px;
+height: 54px;
+background: #26B8A9 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+footer p{
+	margin-left: 70px;
+	width: 483px;
+	height: 18px;
+	text-align: left;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	opacity: 1;
+	font-size: 14px;
+	padding: 20px;
+} 
+
+.cajapromociongris{
+	background: #E9EAEC 0% 0% no-repeat padding-box;
+	padding: 50px;
+}
+
+
+.promocionfooter{
+
+	background-color: #DB9200;
+	margin-left: 300px;
+	width: 526px;
+	height: 32px;
+	background: #DB9200 0% 0% no-repeat padding-box;
+	border-radius: 5px 5px 0px 0px;
+	opacity: 1;
+}
+
+.titulopromofooter{
+	
+	width: 526px;
+	height: 21px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 26px;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	opacity: 1;
+	text-transform: uppercase;
+}
+
+.promociodosfooter{
+
+	margin-left: 300px;
+	width: 526px;
+	height: 50px;
+	background: #FFAA00 0% 0% no-repeat padding-box;
+	box-shadow: 3px 3px 10px #00000029;
+	border-radius: 0px 0px 5px 5px;
+	opacity: 1;
+}
+
+.promociodosfooter h2{
+
+	margin-top: 0px;
+	height: 32px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	font-weight: 900;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+}
+
+
+.formulario form{
+	margin: 20px 0px 20px 0px;
+}
+
+.promociodosfinal h2{
+
+	margin-top: 0px;
+	height: 32px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	font-weight: 900;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	padding: 10px;
+}
+
+/* Teléfonos */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	.promocion{
+
+		width: auto;
+
+	}
+
+	.promociodos{
+
+		width: auto;
+	}
+
+	#Banner1 p{
+
+		width: auto;
+		margin-left: 450px;
+
+		font-size: 24px;
+	}
+
+
+
+	.promocion3{
+
+		margin-top: 130px;
+		width: auto;
+	}
+
+	.promocion3sub{
+
+		width: auto;
+	}
+
+	.fondobox img{
+
+		max-width: 340px;
+	}
+
+	.promocionfinal{
+
+		width: auto;
+		margin-top: 121px;
+
+	}
+
+	.promociodosfinal{
+		width: auto;
+		margin: 0px 0px 39px;
+
+	}
+
+	.cajaletras {
+ 
+  	width: 1040px;
+
+	}
+
+	#Banner1{
+	width: 1020px;
+	height: 430px;
+	}
+
+	#titulo{
+		font-size: 37px;
+	}
+
+	#subtitulo{
+		font-size: 24px;
+	}
+
+	.introduccion p {
+	  font-size: 24px;
+	}
+
+	.cajafinal div p {
+  	
+  	width: 483px;
+  	font-size: 24px;
+	
+	}
+
+	.cajapromociongris{
+
+		width: 1040px;
+	}
+
+	.contenidoletras{
+		margin-left: auto!important;
+		text-align: center;
+		width: auto;
+
+	}
+
+	.letra P {
+	  
+	  margin-left: 111px!important;
+	}
+
+	.promocionfooter{
+
+		margin-left: 209px;
+	}
+	.promociodosfooter{
+
+		margin-left: 210px;
+	}
+
+	.cajaletras p{
+
+		font-size: 24px;
+	}
+
+	.tituloletras{
+		font-size: 21px;
+	}
+
+	.checks p{
+		font-size: 21px;
+		height: 95px;
+	}
+	footer p {
+	  padding: 20px 10px 10px 10px;
+	}
+}
+
+
+
+
+@media only screen and (min-width: 1200px){
+
+ .cajapromos{
+	  margin: 0 auto;
+	}
+
+	.promociodosfooter {
+  	
+  	 margin: 0 auto;
+  }
+
+  .promocionfooter{
+
+  	 margin: 0 auto;
+  }
+
+}
